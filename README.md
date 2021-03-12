@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jasielx1
+- 👀 I’m interested in Creating Web Pages and Multiplatform Apps
+- 🌱 I’m currently learning HTML5, CSS, JS and Wordpress
+- 💞️ I’m looking to collaborate on Open Source projects and Personal Projects
+- 📫 How to reach me jasieldev@protonmail.com
